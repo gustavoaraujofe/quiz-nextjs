@@ -1,0 +1,175 @@
+[
+  {
+    "id": 201,
+    "pergunta": "Qual bicho transmite a Doença de Chagas?",
+    "respostas": [
+      { "valor": "Abelha", "certa": false },
+      { "valor": "Barata", "certa": false },
+      { "valor": "Pulga", "certa": false },
+      { "valor": "Barbeiro", "certa": true }
+    ]
+  },
+  {
+    "id": 202,
+    "pergunta": "Qual fruto é conhecido no Norte e Nordeste como 'jerimum'?",
+    "respostas": [
+      { "valor": "Cajú", "certa": false },
+      { "valor": "Côco", "certa": false },
+      { "valor": "Chuchú", "certa": false },
+      { "valor": "Abóbora", "certa": true }
+    ]
+  },
+  {
+    "id": 203,
+    "pergunta": "Qual é o coletivo de cães?",
+    "respostas": [
+      { "valor": "Manada", "certa": false },
+      { "valor": "Alcateia", "certa": false },
+      { "valor": "Rebanho", "certa": false },
+      { "valor": "Matilha", "certa": true }
+    ]
+  },
+
+  {
+    "id": 204,
+    "pergunta": "Qual é o triângulo que tem todos os lados diferentes?",
+    "respostas": [
+      { "valor": "Equilátero", "certa": false },
+      { "valor": "Isóceles", "certa": false },
+      { "valor": "Trapézio", "certa": false },
+      { "valor": "Escaleno", "certa": true }
+    ]
+  },
+
+  {
+    "id": 205,
+    "pergunta": "Quem compôs o Hino da Independência?",
+    "respostas": [
+      { "valor": "Castro Alves", "certa": false },
+      { "valor": "Manuel Bandeira", "certa": false },
+      { "valor": "Carlos Gomes", "certa": false },
+      { "valor": "Dom Pedro I", "certa": true }
+    ]
+  },
+
+  {
+    "id": 206,
+    "pergunta": "Qual é o antônimo de 'malograr'?",
+    "respostas": [
+      { "valor": "Perder", "certa": false },
+      { "valor": "Fracassar", "certa": false },
+      { "valor": "Desprezar", "certa": false },
+      { "valor": "Conseguir", "certa": true }
+    ]
+  },
+
+  {
+    "id": 207,
+    "pergunta": "Em que país nasceu Carmen Miranda?",
+    "respostas": [
+      { "valor": "Argentina", "certa": false },
+      { "valor": "Espanha", "certa": false },
+      { "valor": "Brasil", "certa": false },
+      { "valor": "Portugal", "certa": true }
+    ]
+  },
+
+  {
+    "id": 208,
+    "pergunta": "Qual foi o último Presidente do período da ditadura militar no Brasil?",
+    "respostas": [
+      { "valor": "Costa e Silva", "certa": false },
+      { "valor": "Emílio Médici", "certa": false },
+      { "valor": "Ernesto Geisel", "certa": false },
+      { "valor": "João Figueiredo", "certa": true }
+    ]
+  },
+
+  {
+    "id": 209,
+    "pergunta": "Seguindo a sequência do baralho, qual carta vem depois do dez?",
+    "respostas": [
+      { "valor": "Ás", "certa": false },
+      { "valor": "Nove", "certa": false },
+      { "valor": "Rei", "certa": false },
+      { "valor": "Valete", "certa": true }
+    ]
+  },
+
+  {
+    "id": 210,
+    "pergunta": "O adjetivo 'venoso' está relacionado a:",
+    "respostas": [
+      { "valor": "Vela", "certa": false },
+      { "valor": "Vento", "certa": false },
+      { "valor": "Vênia", "certa": false },
+      { "valor": "Veia", "certa": true }
+    ]
+  },
+
+  {
+    "id": 211,
+    "pergunta": "Que nome se dá à purificação por meio da água?",
+    "respostas": [
+      { "valor": "Abrupção", "certa": false },
+      { "valor": "Abolição", "certa": false },
+      { "valor": "Abnegação", "certa": false },
+      { "valor": "Ablução", "certa": true }
+    ]
+  },
+
+  {
+    "id": 212,
+    "pergunta": "Qual montanha se localiza entre a fronteira do Tibet com o Nepal?",
+    "respostas": [
+      { "valor": "Monte Branco", "certa": false },
+      { "valor": "Monte Fuji", "certa": false },
+      { "valor": "Monte Carlo", "certa": false },
+      { "valor": "Monte Everest", "certa": true }
+    ]
+  },
+
+  {
+    "id": 213,
+    "pergunta": "Em que parte do corpo se encontra a epiglote?",
+    "respostas": [
+      { "valor": "Estômago", "certa": false },
+      { "valor": "Pâncreas", "certa": false },
+      { "valor": "Rim", "certa": false },
+      { "valor": "Pescoço", "certa": true }
+    ]
+  },
+
+  {
+    "id": 214,
+    "pergunta": "A compensação por perda é chamada de...",
+    "respostas": [
+      { "valor": "Déficit", "certa": false },
+      { "valor": "Indexação", "certa": false },
+      { "valor": "Indébito", "certa": false },
+      { "valor": "Indenização", "certa": true }
+    ]
+  },
+
+  {
+    "id": 215,
+    "pergunta": "Que personagem do folclore brasileiro tem uma perna só?",
+    "respostas": [
+      { "valor": "Cuca", "certa": false },
+      { "valor": "Curupira", "certa": false },
+      { "valor": "Boitatá", "certa": false },
+      { "valor": "Saci-pererê", "certa": true }
+    ]
+  },
+
+  {
+    "id": 216,
+    "pergunta": "Quem é o 'patrono' do Exército Brasileiro?",
+    "respostas": [
+      { "valor": "Marechal Deodoro", "certa": false },
+      { "valor": "Barão de Mauá", "certa": false },
+      { "valor": "Marquês de Pombal", "certa": false },
+      { "valor": "Duque de Caxias", "certa": true }
+    ]
+  }
+]
