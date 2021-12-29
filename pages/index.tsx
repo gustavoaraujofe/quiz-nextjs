@@ -3,7 +3,9 @@ import Questionario from "../components/Questionario";
 import QuestaoModel from "../model/questao";
 import { useRouter } from "next/router";
 
-const BASE_URL = "http://localhost:3000/api";
+//Para rodar localmente alterar a BASE_URL para: "http://localhost:3000/api"
+const BASE_URL = "https://quiz-nextjs-one.vercel.app/api";
+
 
 export default function Home() {
   const router = useRouter();
