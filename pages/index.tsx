@@ -4,6 +4,7 @@ import QuestaoModel from "../model/questao";
 import { useRouter } from "next/router";
 
 //Para rodar localmente usar o link "http://localhost:3000/api"
+//Para roda em produção usar o link "https://quiz-nextjs-one.vercel.app/api"
 const BASE_URL = "https://quiz-nextjs-one.vercel.app/api";
 
 
@@ -71,15 +72,7 @@ export default function Home() {
   }
 
   return questao ? (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        justifyContent: "center",
-        alignItems: "center",
-        height: "100vh",
-      }}
-    >
+    <div>
       <Questionario
         questao={questao}
         ultima={idProximaPergunta() === undefined}
