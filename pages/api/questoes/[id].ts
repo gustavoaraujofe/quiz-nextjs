@@ -1,6 +1,6 @@
 import questoes from "../bancoDeQuestoes";
 
-export default (req, res) => {
+export default function questoesPorId(req, res) {
   const idSelecionada = +req.query.id;
 
   const unicaQuestao = questoes.filter(
@@ -13,4 +13,4 @@ export default (req, res) => {
   }
 
   res.status(204).send();
-};
+}
